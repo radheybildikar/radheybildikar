@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning languages
 - 💞️ I’m looking to collaborate on hard working
 - 📫 How to reach me 8888284107
-- 😄 Pronouns: he
+- ✉️ radheybildikar007@gmail.com
 - ⚡ Fun fact: loves to play Table Tennis and like to code
 
 <!---
