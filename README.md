@@ -1,97 +1,122 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&duration=4000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Radhey+Bildikar;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
-</h1>
+# Hi there, I'm Radhey Parikshit Bildikar 👋
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Aspiring Software Engineer | Tech Explorer | Code Enthusiast
-</h3>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=radheybildikar&color=blueviolet&style=flat-square)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhey-bildikar-8632a6266/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radheybildikar007@gmail.com)
+  
+</div>
+
+## 🚀 About Me
+
+I'm a **Data Systems Developer & Analyst** pursuing B.Tech in Computer Science at Savitribai Phule Pune University (CGPA: 9.07/10). I specialize in building automated data processing systems, implementing security solutions, and developing data-driven applications.
+
+- 🔭 Currently working on **automated data processing systems** and **security analytics**
+- 💼 Experience at **Cerebro Spark Innovations** and **Deloitte Cyber Security Analytics**
+- 🌱 Passionate about **Data Engineering**, **Machine Learning**, and **Cryptographic Security**
+- 📊 Processed **10,000+ data records** with 97-98% accuracy across multiple projects
+- ⚡ Reduced manual processing by **60%** through intelligent automation
+- 🎯 Achieved **95% operational reliability** in production systems
+
+---
+
+## 💼 Professional Experience
+
+**Data Systems Developer & Analyst** @ Cerebro Spark Innovations  
+*Jan 2025 – June 2025*
+- Developed automated data processing systems using Python/C++
+- Reduced manual intervention by 60% with 95% reliability
+- Implemented data governance protocols across engineering teams
+
+**Data Analytics Analyst** @ Deloitte Cyber Security  
+*June 2025 – July 2025*
+- Analyzed 1,000+ records for security vulnerabilities
+- Developed Python analytical tools identifying 20+ data quality issues
+- Created visualization solutions for stakeholder decision-making
+
+---
+
+## 🛠️ Technical Skills
+
+**Data & Analytics**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+**Programming & Development**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🔐 UAV System with Tamper-Resistance Firmware
+*Python | C++ | Cryptography | Data Security*
+- Analyzed **10,000+ records** achieving **97.10% accuracy** in detecting data tampering
+- Implemented RSA-2048 and ECC-256 encryption algorithms
+- Established comprehensive data lineage and audit trails for compliance
+
+### ☁️ Cloud Security DDoS Prevention System
+*Python | Machine Learning | Cloud Security*
+- Built data filtering system processing **5,000+ requests/second**
+- Reduced false positives by **40%** while maintaining **95% accuracy**
+- Applied Random Forest ML for predictive analytics on network data
+
+### 🕸️ Web Scraper with Data Analysis Pipeline
+*Python | Pandas | BeautifulSoup4*
+- Engineered data extraction system processing **5,000+ data points daily**
+- Achieved **98% accuracy** with validation and cleansing pipelines
+- Developed visualization dashboards using Matplotlib
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radheybildikar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheybildikar&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radheybildikar&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+- **Data Analysis & Engineering**: Statistical Analysis, Pattern Recognition, Data Visualization
+- **Security & Compliance**: Cryptographic Security, Risk Assessment, Data Integrity Controls
+- **Development**: Automated Systems, Data Quality Management, ML Implementation
+- **Collaboration**: Cross-functional Teamwork, Agile Project Management, Technical Documentation
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [radheybildikar007@gmail.com](mailto:radheybildikar007@gmail.com)
+- 💼 LinkedIn: [Radhey Bildikar](https://www.linkedin.com/in/radhey-bildikar-8632a6266/)
+- 📍 Location: Pune, Maharashtra, India
+- 📱 Phone: +91 8888284107
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=radheybildikar&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/radheybildikar?style=for-the-badge&logo=github)](https://github.com/radheybildikar)
-  
+### 💡 "Turning data into actionable insights, one line of code at a time"
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on **Scalable Web Applications**
-- 🌱 Learning **Data Structures & Algorithms**
-- ☁️ Exploring **Cloud Computing & DevOps**
-- 💬 Ask me about **Web Development, Python, Career Advice**
-- ⚡ Fun fact: I can solve a Rubik's cube in **under 2 minutes**
-- 🏓 Hobbies: **Table Tennis, Chess, Tech Blogs**
-
----
-
-## 🛠 Tech Stack
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Data Analysis Dashboard](https://github.com/)** | Interactive data visualization dashboard | Python, Power BI, Pandas |
-| **[Portfolio Website](https://github.com/)** | Personal portfolio with animations | HTML, CSS, JavaScript |
-| **[AI Chatbot](https://github.com/)** | Conversational AI assistant (In Progress) | Python, NLP, TensorFlow |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radheybildikar&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radheybildikar&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheybildikar&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:radheybildikar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/radhey-bildikar-8632a6266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-</p>
-
----
-
-## 📜 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Readme Quotes">
-</p>
-
----
-
-⭐ From [Radhey Bildikar](https://github.com/radheybildikar)
