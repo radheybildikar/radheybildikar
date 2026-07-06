@@ -8,17 +8,6 @@
   
 </div>
 
-## 🚀 About Me
-
-I'm a **Data Systems Developer & Analyst** pursuing B.Tech in Computer Science at Savitribai Phule Pune University (CGPA: 9.07/10). I specialize in building automated data processing systems, implementing security solutions, and developing data-driven applications.
-
-- 🔭 Currently working on **automated data processing systems** and **security analytics**
-- 💼 Experience at **Cerebro Spark Innovations** and **Deloitte Cyber Security Analytics**
-- 🌱 Passionate about **Data Engineering**, **Machine Learning**, and **Cryptographic Security**
-- 📊 Processed **10,000+ data records** with 97-98% accuracy across multiple projects
-- ⚡ Reduced manual processing by **60%** through intelligent automation
-- 🎯 Achieved **95% operational reliability** in production systems
-
 ---
 
 ## 💼 Professional Experience
@@ -60,28 +49,6 @@ I'm a **Data Systems Developer & Analyst** pursuing B.Tech in Computer Science a
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔐 UAV System with Tamper-Resistance Firmware
-*Python | C++ | Cryptography | Data Security*
-- Analyzed **10,000+ records** achieving **97.10% accuracy** in detecting data tampering
-- Implemented RSA-2048 and ECC-256 encryption algorithms
-- Established comprehensive data lineage and audit trails for compliance
-
-### ☁️ Cloud Security DDoS Prevention System
-*Python | Machine Learning | Cloud Security*
-- Built data filtering system processing **5,000+ requests/second**
-- Reduced false positives by **40%** while maintaining **95% accuracy**
-- Applied Random Forest ML for predictive analytics on network data
-
-### 🕸️ Web Scraper with Data Analysis Pipeline
-*Python | Pandas | BeautifulSoup4*
-- Engineered data extraction system processing **5,000+ data points daily**
-- Achieved **98% accuracy** with validation and cleansing pipelines
-- Developed visualization dashboards using Matplotlib
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -92,15 +59,6 @@ I'm a **Data Systems Developer & Analyst** pursuing B.Tech in Computer Science a
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=radheybildikar&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🎯 Core Competencies
-
-- **Data Analysis & Engineering**: Statistical Analysis, Pattern Recognition, Data Visualization
-- **Security & Compliance**: Cryptographic Security, Risk Assessment, Data Integrity Controls
-- **Development**: Automated Systems, Data Quality Management, ML Implementation
-- **Collaboration**: Cross-functional Teamwork, Agile Project Management, Technical Documentation
 
 ---
 
